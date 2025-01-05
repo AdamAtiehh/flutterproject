@@ -6,6 +6,9 @@ This is a Flutter-based Admin Management System with features to manage user rec
 The project is hosted online and can be accessed here:  
 [Admin Management System](https://aqua-stingray-882847.hostingersite.com/)
 
+username:adam
+password:123
+
 ## 📦 Features
 - **View Admin Records**: List all admins from the database.
 - **Add Admin**: Insert new admin records.
